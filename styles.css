@@ -8,6 +8,11 @@ h5{
 h2{
     color:black;
     font-weight: 900;
+    font-family: Arial;   
+}
+
+h3{
+    color:black;
+    font-weight:700;
     font-family: Arial;
-    
 }
