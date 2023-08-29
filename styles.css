@@ -18,20 +18,35 @@ h3{
     font-family: Arial;
 }
 
-.box-1{
-    padding:30px;
-    margin: 20px;
-    border: solid lightseagreen;
-}
 
 .box-2{
     padding:30px;
     margin: 20px;
     border: solid lightseagreen;
+    height: 35px;
+    width: 500px;
 }
 
 #tour{
     padding:30px;
     margin: 20px;
     border: solid lightseagreen;
+    height: 400px;
+    width:500px;
+}
+
+.img-1{
+    padding:30px;
+    margin: 20px;
+    border: solid lightseagreen;
+    height: 35px;
+    width: 500px;
+}
+
+.img-2{
+    padding:30px;
+    margin: 20px;
+    border: solid lightseagreen;
+    height: 400px;
+    width:500px;
 }
