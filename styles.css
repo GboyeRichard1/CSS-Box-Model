@@ -1,18 +1,18 @@
 
 .img-1{
-    padding:5px;
-    margin: 20px;
+    padding:3px;
+    margin: 8px;
     border: solid lightseagreen;
     height: 157px;
     width: 580px;
 }
 
 .img-2{
-    padding:40px;
-    margin: 10px;
+    padding:13px;
+    margin: 8px;
     border: solid lightseagreen;
-    height: 400px;
-    width:503px;
+    height: 414px;
+    width:558px;
 }
 
 .text-container1{
@@ -28,9 +28,10 @@
 }
 
 .centred2{
-    text-align: center;  
+    text-align: center;
+    font-size: 60px;  
+    color:brown
 }
-
 
 .bottom-left{
     text-align: bottom left;
