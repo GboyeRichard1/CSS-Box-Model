@@ -7,7 +7,7 @@ h2{
     
 h5{
     color:brown;
-    font-size:5px;
+    font-size:10px;
     font-weight: 900;
     }
     
@@ -41,18 +41,17 @@ h4{
 .text-container2{
     text-align: center;
     }
-    
-.centred1{
+.text-container3{
     text-align: center;
+    background-position: center;   
     }
     
-.centred2{
+.text-container4{
     text-align: center;
-    font-size: 60px;  
-    color:brown
+    background-position: center;   
     }
-    
-.bottom-left{
-    text-align: bottom left;
+.text-container5{
+    text-align: center;
+    background-position: center;   
     }
-    
+                
