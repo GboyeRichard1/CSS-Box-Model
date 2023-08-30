@@ -1,46 +1,37 @@
 
 .img-1{
-    padding:30px;
+    padding:5px;
     margin: 20px;
     border: solid lightseagreen;
-    height: 35px;
-    width: 500px;
+    height: 157px;
+    width: 580px;
 }
 
 .img-2{
-    padding:30px;
-    margin: 20px;
+    padding:40px;
+    margin: 10px;
     border: solid lightseagreen;
     height: 400px;
-    width:500px;
+    width:503px;
 }
 
 .text-container1{
-    position: relative;
     text-align: center;
-    color: white;
 }
 
 .text-container2{
-    position: relative;
-    text-align: bottom left;
-    color: white;
-    
+    text-align: center;
 }
 
 .centred1{
-    position: absolute;
-    top: 50%;
-
+    text-align: center;
 }
 
 .centred2{
-    position: absolute;
-    top: 50%;
+    text-align: center;  
 }
 
+
 .bottom-left{
-    position: absolute;
-    bottom: 8px;
-    left:16px;
+    text-align: bottom left;
 }
